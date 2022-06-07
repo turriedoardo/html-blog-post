@@ -31,6 +31,10 @@ body {
     /* height: 80px; */
 }
 
+article {
+    position: relative;
+}
+
 nav {
     font-size: 18px;
     /* text-align: center; */
